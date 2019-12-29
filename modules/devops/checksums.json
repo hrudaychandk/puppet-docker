@@ -1,0 +1,15 @@
+{
+  "Gemfile": "36c376f27539ded2a321b2bd432e843b",
+  "README.md": "546528bbd37e8f99497547ca7fc4e347",
+  "Rakefile": "f4692851f7e9afcdb02721319e3f18b9",
+  "examples/init.pp": "4d020dcff4337121fa66febd563788c3",
+  "files/Dockerfile": "5acc1c6d1e3a60c07a62a01c30cdd0c5",
+  "files/addressbook.war": "e8dfa3b6e43a67ebdae13166067a4196",
+  "manifests/dockerbuild.pp": "0aa5841ccf9fbc52a47d6e1ffb747323",
+  "manifests/dockerinstall.pp": "fb3f668250a003def448c0d401db19e6",
+  "manifests/dockerrun.pp": "a475441a44f8473cc4ce2317ce46f97a",
+  "manifests/init.pp": "b9326911bfa9f127beab568a38cc2477",
+  "metadata.json": "f92dc9f1ff3e88abe8de1ab4edb952e8",
+  "spec/classes/init_spec.rb": "4be5ea87839cb5a2657253c76015212a",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc"
+}
